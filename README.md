@@ -77,5 +77,5 @@
 - **Визуализация**: Matplotlib, Seaborn, Plotly
 - **Машинное обучение**: Scikit-learn, XGBoost
 - **Нейронные сети**: TensorFlow, Keras, PyTorch
--
+
 
